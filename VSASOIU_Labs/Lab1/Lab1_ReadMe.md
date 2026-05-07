@@ -191,6 +191,7 @@ module register_file_tb;
 
         #100 $finish; // Завершение симуляции
     end
+endmodule
 ```
 ---
 
